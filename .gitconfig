@@ -1,0 +1,7 @@
+[user]
+	name = Moktada Moulahi
+	email = moktadamoulahi04@gmail.com
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
